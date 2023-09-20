@@ -10,5 +10,8 @@ export const load: LayoutLoad<{
 		label: string;
 	}[];
 }> = () => ({
-	internalLinks: [{ href: "/", pathPrefix: "/", exact: true, label: "home" }],
+	internalLinks: [
+		{ href: "/", pathPrefix: "/", exact: true, label: "home" },
+		{ href: "/read", pathPrefix: "/read", label: "read" },
+	],
 });
