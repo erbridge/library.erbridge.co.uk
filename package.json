@@ -14,7 +14,7 @@
 		"@erbridge/website-theme": "github:erbridge/website-theme",
 		"@sveltejs/adapter-static": "^2.0.2",
 		"@sveltejs/kit": "^1.0.1",
-		"@typescript-eslint/eslint-plugin": "^6.4.0",
+		"@typescript-eslint/eslint-plugin": "^6.7.2",
 		"@typescript-eslint/parser": "^6.4.0",
 		"autoprefixer": "^10.4.13",
 		"eslint": "^8.47.0",
