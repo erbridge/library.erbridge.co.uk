@@ -9,9 +9,15 @@ export const load: LayoutLoad<{
 		exact?: boolean;
 		label: string;
 	}[];
+	externalLink: {
+		href: string;
+		label: string;
+		rel?: string[];
+	};
 }> = () => ({
 	internalLinks: [
-		{ href: "/", pathPrefix: "/", exact: true, label: "home" },
+		{ href: "/", pathPrefix: "/", exact: true, label: "library" },
 		{ href: "/read", pathPrefix: "/read", label: "read" },
 	],
+	externalLink: { href: "https://erbridge.co.uk/", label: "home", rel: ["me"] },
 });
