@@ -67,7 +67,7 @@ Transformed.</pre>
 			If you used assistive technology to read this poem, I’d love your feedback
 			on whether it worked well for you. Please <a
 				rel="external me"
-				href="https://tech.lgbt/@erbridge">toot</a
+				href="https://sunspot.garden/@erbridge">toot</a
 			>
 			or
 			<a href="mailto:library@erbridge.co.uk">email</a> me.
