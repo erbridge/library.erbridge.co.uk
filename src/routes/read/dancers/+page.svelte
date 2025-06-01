@@ -83,6 +83,7 @@ Transformed.</pre>
 
 	pre {
 		font-family: var(--body-font-family);
+		font-weight: var(--body-font-weight);
 	}
 
 	.square-container {

@@ -22,5 +22,6 @@ WOW</pre>
 <style>
 	pre {
 		font-family: var(--body-font-family);
+		font-weight: var(--body-font-weight);
 	}
 </style>

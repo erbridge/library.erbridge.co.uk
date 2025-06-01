@@ -99,5 +99,6 @@ F fits me but not you, and I have given up fighting.</pre>
 <style>
 	pre {
 		font-family: var(--body-font-family);
+		font-weight: var(--body-font-weight);
 	}
 </style>

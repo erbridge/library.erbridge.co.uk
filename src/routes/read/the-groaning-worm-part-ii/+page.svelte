@@ -69,6 +69,7 @@ Is the God of the universe. Consider that!</pre>
 
 	.poem pre {
 		font-family: var(--body-font-family);
+		font-weight: var(--body-font-weight);
 		line-height: 3.5;
 	}
 

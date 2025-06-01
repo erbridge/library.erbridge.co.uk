@@ -51,5 +51,6 @@ I stand and look out over the emptiness, and see myself.</pre>
 <style>
 	pre {
 		font-family: var(--body-font-family);
+		font-weight: var(--body-font-weight);
 	}
 </style>

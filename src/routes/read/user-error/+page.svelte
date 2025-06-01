@@ -161,5 +161,6 @@
 <style>
 	.mono {
 		font-family: var(--monospace-font-family);
+		font-weight: var(--monospace-font-weight);
 	}
 </style>
